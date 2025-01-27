@@ -10,3 +10,6 @@
 # Deliverables:
 1) Interactive map of pharmacy locations and their coverage areas.
 2) Report or dashboard showing insights and recommendations.
+
+# Sources:
+1) LONDON DATASTORE: https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london 
