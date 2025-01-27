@@ -1,4 +1,4 @@
-# pharmaciesAccess
+# pharmacies Access
 1) Goal: Create a data-driven map and analysis of pharmacy access in London.
 2) **Identify underserved areas (pharmacy deserts)** and **propose optimized locations for new pharmacies** using geospatial analysis and data science techniques.
 
